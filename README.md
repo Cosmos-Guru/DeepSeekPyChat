@@ -1,6 +1,3 @@
-Here is your corrected and properly formatted Markdown file in a single code block:
-
-```markdown
 # DeepSeekPyChat
 
 DeepSeekPyChat is a PySimpleGUI-based chat client that interacts with the Ollama LLM API.
