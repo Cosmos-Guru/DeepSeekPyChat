@@ -20,7 +20,7 @@ ollama pull deepseek1.5b
 
 ## Installation
 
-1. Clone the repository:
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/yourusername/DeepSeekPyChat.git
